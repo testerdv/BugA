@@ -1,0 +1,20 @@
+{
+  "name": "buga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^7.25.4",
+    "@wdio/cucumber-framework": "^7.25.4",
+    "@wdio/local-runner": "^7.25.4",
+    "@wdio/selenium-standalone-service": "^7.25.4",
+    "@wdio/spec-reporter": "^7.25.4",
+    "geckodriver": "^4.5.1"
+  },
+  "devDependencies": {}
+}
